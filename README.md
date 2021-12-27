@@ -44,7 +44,6 @@ Cryptocurrency Trailing stop for BitKub exchange.
 
 ![image](https://user-images.githubusercontent.com/56244402/147463383-edf70ab1-23ac-4bb6-9f64-6f047b32e866.png)
 
-
 ## Support
 หากพบปัญหาหรือต้องการฟีเจอร์เพิ่มเติม สามารถโพสไว้ในหัวข้อ issue ได้เลยครับ 
 
