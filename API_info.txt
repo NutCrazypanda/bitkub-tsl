@@ -1,0 +1,4 @@
+API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+API_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#Do not anyone know your API_KEY & API_SECRET !!!!!

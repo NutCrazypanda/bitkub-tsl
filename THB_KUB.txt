@@ -1,0 +1,8 @@
+symbol=THB_KUB
+cost=270
+gridsize=100
+sellsize=0.1
+
+
+
+
