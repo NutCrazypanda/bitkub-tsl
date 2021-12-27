@@ -44,6 +44,12 @@ Cryptocurrency Trailing stop for BitKub exchange.
 
 ![image](https://user-images.githubusercontent.com/56244402/147463383-edf70ab1-23ac-4bb6-9f64-6f047b32e866.png)
 
+## Note
+- ทดสอบดาวน์โหลดจาก GitHub มาเครื่องตัวเอง เจอ antivirus ฟ้องว่าเป็นไวรัสนะครับ สำหรับคนรู้จักผมขอไฟล์ทาง LINE ได้นะครับ ส่วนถ้าท่านใดผ่านมาเจอแล้วไม่แน่ใจก็ผ่านเลยนะครับ
+
+![image](https://user-images.githubusercontent.com/56244402/147465738-c3c0d68f-d60b-4425-b051-bd8b07ec6eaa.png)
+
+
 ## Support
 หากพบปัญหาหรือต้องการฟีเจอร์เพิ่มเติม สามารถโพสไว้ในหัวข้อ issue ได้เลยครับ 
 
